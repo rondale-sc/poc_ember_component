@@ -1,6 +1,6 @@
 {
   "name": "ember",
-  "version": "1.7.0-beta.1+canary.f357e253",
+  "version": "1.7.0-beta.1+canary.5e7b6932",
   "main": [
     "./ember.js"
   ],
@@ -9,4 +9,3 @@
     "handlebars": ">= 1.0.0 < 2.0.0"
   }
 }
-"blah"
